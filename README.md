@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a complete Natural Language Processing (NLP) pipeline developed as an academic lab assignment. The project processes a custom, self-collected corpus of 50 category-specific PDF documents, demonstrating the full NLP lifecycle: from raw text extraction and advanced text preprocessing to training word embeddings and machine learning classification models.
 
-# Due to GitHub's file size limits, the raw PDF dataset is hosted here: https://drive.google.com/file/d/1mvtFMcT9ub9frVnHNH8U9qFPnDjqE5u4/view?usp=sharing
+### Due to GitHub's file size limits, the raw PDF dataset is hosted here: https://drive.google.com/file/d/1mvtFMcT9ub9frVnHNH8U9qFPnDjqE5u4/view?usp=sharing
 
 ## Project Architecture
 The pipeline is divided into three primary phases:
